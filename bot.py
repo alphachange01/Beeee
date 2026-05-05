@@ -3,8 +3,8 @@ import sqlite3
 from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message
 
-BOT_TOKEN = "TOKEN"
-ALPHA_ID = 111111111
+BOT_TOKEN = ""
+ALPHA_ID = 7399101034
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
